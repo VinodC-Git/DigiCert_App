@@ -1,0 +1,7 @@
+com\java\springPro\DetailUserTest.class
+com\java\springPro\UpdateUserTest.class
+com\java\springPro\DeleteUserTest.class
+com\java\springPro\CreateUserServiceTest.class
+com\java\springPro\UserControllerITests.class
+com\java\springPro\JsonUtil.class
+com\java\springPro\UsersListTest.class
